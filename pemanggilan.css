@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: orange;  
+}
+h2{
+    color: blanchedalmond;
+}
+h1{
+    color: coral;
+}
+a{
+    color: khaki;
+}
+ul li a{
+    color: saddlebrown;
+}
+ol li a{
+    color: antiquewhite;
+}
+p{
+    color: darkgoldenrod;
+}
+#p1{
+    color: darkolivegreen;
+}
+.p2{
+    color: indianred;
+}
+
+ol{
+    color: white    ;
+}
+ul{
+    color:saddlebrown
+}
